@@ -2,7 +2,8 @@
 ESPHome Extras
 ##############
 
-This is a proof of concept external library for ESPHome.
+This is a proof of concept external library for ESPHome. Specifically for pull
+request `#957 <https://github.com/esphome/esphome/pull/957>`_.
 
 This utilises setuptools entry points to register itself as a component provider.
 
